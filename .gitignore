@@ -1,0 +1,8 @@
+/bin
+/gen
+/.settings
+/libs/*/bin
+/libs/*/gen
+/libs/*/*/bin
+/libs/*/*/gen
+/ic_launcher-web.png

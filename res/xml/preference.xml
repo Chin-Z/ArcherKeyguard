@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:title="@string/text_pref_open_keyguard" android:key="key_open_keyguard"/>
+    <Preference android:title="@string/text_pref_select_wall" android:key="key_select_back"/>
+    
+
+</PreferenceScreen>
